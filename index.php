@@ -5,6 +5,7 @@
 <title>index</title>
 </head>
 <body>
+<p>下記のリンクから移動してください</p>
 <a href="form.php">入力はこちら</a>
 </body>
 </html>
