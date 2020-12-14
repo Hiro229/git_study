@@ -9,5 +9,6 @@
 <?php
 echo htmlspecialchars($_GET['your_name'], ENT_QUOTES);
 ?>
+<p>ご記入いただきありがとうございました。</p>
 </body>
 </html>
