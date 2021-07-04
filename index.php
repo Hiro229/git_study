@@ -12,7 +12,9 @@
 <p>pushした後に変更</p>
 =======
 >>>>>>> origin/master
-
+  
+<p>git merge</p>
+  
 <a href="form.php">入力はこちら</a>
 
 </body>
